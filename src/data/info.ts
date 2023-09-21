@@ -1,5 +1,5 @@
 export const info = {
-  baseUrl: "https://astro-portfolio-uzair.vercel.app",
+  baseUrl: "https://semaphoric775.github.io",
   name: "Eamon Murphy",
   jobDescription: "",
   about: `I am an ASIC engineer with a background in VLSI, Digital, and Analog and Mixed-Signal (AMS) design. My current focus lies in Electronic Design Automation (EDA) and methodology. Explore some of my work below, and feel free to get in touch! `,
