@@ -149,7 +149,7 @@ export const info = {
       title: "Low Noise Amplifier",
       isFeatured: true,
       thumbnail: "/assets/project_thumbnails/lna_toplevel.png",
-      liveUrl: "lna",
+      liveUrl: "projects/lna",
     },
     {
       title: "Voltage Controlled Oscillator",

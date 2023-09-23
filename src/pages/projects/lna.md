@@ -1,5 +1,5 @@
 ---
-layout: ../layouts/Layout.astro
+layout: ../../layouts/Layout.astro
 title: A 12GHz Low Noise Amplifier in 45nm CMOS
 author: Eamon Murphy
 description: A 12GHz Low Noise Amplifier in 45nm CMOS
