@@ -14,8 +14,8 @@ import { createLogo } from "@utils";
   <nav>
     <ul class="flex items-center">
       <li>
-        <a class="p-4 dark:text-light block text-lg" href="/projects"
-          >Projects</a
+        <a class="p-4 dark:text-light block text-lg" href="/"
+          >Home</a
         >
       </li>
       <li>
@@ -53,6 +53,7 @@ import { createLogo } from "@utils";
     return "light";
   })();
 
+  window.localStorage.setItem("theme", "light");
   if (theme === "light") {
     document.documentElement.setAttribute("data-theme", "light");
     isDark = true;
