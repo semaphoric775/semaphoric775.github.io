@@ -11,4 +11,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 <!-- Remote image on another server -->
-![A starry night sky.](../../public/assets/project_thumbnails/nn_toplevel.png)
+![Image](/assets/project_thumbnails/nn_toplevel.png)

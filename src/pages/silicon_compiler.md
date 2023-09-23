@@ -14,5 +14,5 @@ The system architecture is shown below:
 ![architecture](/assets/project_thumbnails/fir_toplevel.png)
 
 Final area and timing results are shown below:
-![Toplevel](../../src/project_screenshots/FIR/area.png)
-![Toplevel](../../src/project_screenshots/FIR/timing.png)
+![Toplevel](/assets/project_screenshots/FIR/area.png)
+![Toplevel](/assets/project_screenshots/FIR/timing.png)

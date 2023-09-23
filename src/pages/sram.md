@@ -8,13 +8,13 @@ description: A 3nm GAA Dual-Port SRAM
 
 A fully custom Dual-Port SRAM in a 3nm Gate-all-Around predictive design kit. Final specifications shown below:
 
-![Toplevel](../../src/project_screenshots/SRAM/specs.png)
+![Toplevel](/assets/project_screenshots/SRAM/specs.png)
 
 ## Schematic
-![Toplevel](../../src/project_screenshots/SRAM/schematic.png)
+![Toplevel](/assets/project_screenshots/SRAM/schematic.png)
 
 ## Layout
 ![Layout](../../assets/project_thumbnails/sram_toplevel.png)
 
 ## Bitcell Layout
-![Toplevel](../../src/project_screenshots/SRAM/bitcellLayout.png)
+![Toplevel](/assets/project_screenshots/SRAM/bitcellLayout.png)

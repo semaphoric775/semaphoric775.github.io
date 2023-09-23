@@ -10,11 +10,11 @@ This was a course project for ECE 712 (data converters) during the Fall 2022 sem
 
 ## Toplevel Schematic
 
-![Toplevel](../../src/project_screenshots/ADC/topLevelSchematic.png)
+![Toplevel](/assets/project_screenshots/ADC/topLevelSchematic.png)
 
 ## The Comparator
-![Toplevel](../../src/project_screenshots/ADC/Comparator.png)
-![Toplevel](../../src/project_screenshots/ADC/comparatorTransient.png)
+![Toplevel](/assets/project_screenshots/ADC/Comparator.png)
+![Toplevel](/assets/project_screenshots/ADC/comparatorTransient.png)
 
 ## The DAC
-![Toplevel](../../src/project_screenshots/ADC/splitChargeDAC.png)
+![Toplevel](/assets/project_screenshots/ADC/splitChargeDAC.png)
